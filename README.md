@@ -18,7 +18,7 @@ A simple GUI-based ATM Machine simulation built using **Java (Swing)** and **MyS
 ## 🧱 Project Structure
 
 ATM-Machine-Java/ │ ├── src/ │ ├── LoginPage.java │ ├── Dashboard.java │ ├── DepositPage.java │ ├── WithdrawPage.java │ ├── BalancePage.java │ └── DBConnection.java │ ├── db/ │ └── atm_database.sql
-# SQL script to create the database and table │
+# SQL script to create the database and table |
 
 
 ---
