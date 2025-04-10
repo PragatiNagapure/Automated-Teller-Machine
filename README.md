@@ -1,33 +1,41 @@
 # Automated-Teller-Machine
 This project simulates the core functionalities of a real-world ATM system, developed using Java for the frontend logic and SQL (MySQL/SQLite) as the backend database for storing user and transaction data.
-🚀 Features
-🔐 User Authentication
-Secure login with card number and PIN validation from the SQL database.
+# 💳 ATM Machine Project (Java + MySQL)
 
-💰 Balance Inquiry
-Displays the current balance of the user by fetching data from the database.
+A simple GUI-based ATM Machine simulation built using **Java (Swing)** and **MySQL**, designed for educational and demonstration purposes. The project supports basic banking operations such as Login, Balance Check, Withdraw, and Deposit.
 
-🏦 Cash Withdrawal
-Allows users to withdraw money after checking for sufficient balance. Balance is updated in the database.
+## 🚀 Features
 
-💵 Cash Deposit
-Accepts deposit amounts and updates the account balance accordingly in the database.
+- 🔐 **User Login Authentication**
+- 💰 **Deposit Money**
+- 💸 **Withdraw Money**
+- 🧾 **Check Account Balance**
+- 🗃️ **MySQL Database Integration**
+- 🖥️ **GUI using Java Swing (NetBeans or Manual Compilation)**
+
+---
+
+## 🧱 Project Structure
+
+ATM-Machine-Java/ │ ├── src/ │ ├── LoginPage.java │ ├── Dashboard.java │ ├── DepositPage.java │ ├── WithdrawPage.java │ ├── BalancePage.java │ └── DBConnection.java │ ├── db/ │ └── atm_database.sql
+# SQL script to create the database and table │
 
 
+---
 
-======================================================================================================
-Clone the repository:
+## 🛠️ Technologies Used
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/ATM-Machine-Java-SQL.git
-Open in your Java IDE.
+- Java (JDK 8+)
+- Java Swing (for GUI)
+- MySQL
+- NetBeans IDE (Optional)
 
-Set up the database:
+---
 
-Run the atm_db.sql script in your MySQL or SQLite DB.
+## 📦 Setup Instructions
 
-Update database credentials in DBConnection.java.
+### 1. Clone the Repository
 
-Run the ATM.java file and interact with the ATM menu.
+```bash
+git clone https://github.com/yourusername/atm-machine-java.git
+cd atm-machine-java
