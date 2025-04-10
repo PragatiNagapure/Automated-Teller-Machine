@@ -32,10 +32,25 @@ ATM-Machine-Java/ │ ├── src/ │ ├── LoginPage.java │ ├── 
 
 ---
 
-## 📦 Setup Instructions
+## 📦 Project Snippets
+![Image](https://github.com/user-attachments/assets/f575bec7-a52a-4598-9dbb-eb47e07d2e53)
+
+![Image](https://github.com/user-attachments/assets/76804549-09fb-4d52-b50d-4500fb876ec3)
+
+![Image](https://github.com/user-attachments/assets/e3e26702-8772-4e5e-bb1b-4c13ec6e2ff8)
+
+![Image](https://github.com/user-attachments/assets/dfb5bf67-f586-4210-a8d2-7370e5c3992c)
+
+![Image](https://github.com/user-attachments/assets/34cc5bd3-1678-45b4-8447-2d55084ff62e)
+
+![Image](https://github.com/user-attachments/assets/eab71fcb-34e4-4bd7-8090-7db5009bf78a)
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/atm-machine-java.git
 cd atm-machine-java
+
+
+
+
